@@ -11,4 +11,4 @@ You are provided with a dataset from a telecommunications company. The data cont
 The task is to analyze the data and predict the churn of users (to identify people who will and will not renew their contract).
 
 
-Dataset taken from Kaggle
+<h2>Dataset taken from Kaggle</h2>
