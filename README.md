@@ -8,9 +8,4 @@ Accordingly, predicting the churn, we can react in time and try to keep the clie
 
 You are provided with a dataset from a telecommunications company. The data contains information about almost six thousand users, their demographic characteristics, the services they use, the duration of using the operator's services, the method of payment, and the amount of payment.
 
-The task is to analyze the data and predict the churn of users (to identify people who will and will not renew their contract). The work should include the following mandatory items:
-
-1.Description of the data (with the calculation of basic statistics);
-2.Research of dependencies and formulation of hypotheses;
-3.Building models for predicting the outflow (with justification for the choice of a particular model) based on tested hypotheses and identified relationships;
-4.Comparison of the quality of the obtained models.
+The task is to analyze the data and predict the churn of users (to identify people who will and will not renew their contract).
